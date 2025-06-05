@@ -63,34 +63,29 @@ if ( ! function_exists( 'woomelly_admin_menu_ext_002' ) ) {
                         <tbody>
                             <tr>
                                 <th scope="row"><label for="blogname">String Delimitador 01</label></th>
-                                    <td><input name="wm_string_01" type="text" id="wm_string_01" value="<?php echo $strings[0]; ?>" class="regular-text"></td>
-                                </tr>
-                            <tr>
+                                <td><input name="wm_string_01" type="text" id="wm_string_01" value="<?php echo $strings[0]; ?>" class="regular-text"></td>
+                            </tr>
                             <tr>
                                 <th scope="row"><label for="blogname">String Delimitador 02</label></th>
-                                    <td><input name="wm_string_02" type="text" id="wm_string_02" value="<?php echo $strings[1]; ?>" class="regular-text"></td>
-                                </tr>
-                            <tr>
+                                <td><input name="wm_string_02" type="text" id="wm_string_02" value="<?php echo $strings[1]; ?>" class="regular-text"></td>
+                            </tr>
                             <tr>
                                 <th scope="row"><label for="blogname">String Delimitador 03</label></th>
-                                    <td><input name="wm_string_03" type="text" id="wm_string_03" value="<?php echo $strings[2]; ?>" class="regular-text"></td>
-                                </tr>
-                            <tr>
+                                <td><input name="wm_string_03" type="text" id="wm_string_03" value="<?php echo $strings[2]; ?>" class="regular-text"></td>
+                            </tr>
                             <tr>
                                 <th scope="row"><label for="blogname">String Delimitador 04</label></th>
-                                    <td><input name="wm_string_04" type="text" id="wm_string_04" value="<?php echo $strings[3]; ?>" class="regular-text"></td>
-                                </tr>
-                            <tr>
+                                <td><input name="wm_string_04" type="text" id="wm_string_04" value="<?php echo $strings[3]; ?>" class="regular-text"></td>
+                            </tr>
                             <tr>
                                 <th scope="row"><label for="blogname">String Delimitador 05</label></th>
-                                    <td><input name="wm_string_05" type="text" id="wm_string_05" value="<?php echo $strings[4]; ?>" class="regular-text"></td>
-                                </tr>
-                            <tr>
+                                <td><input name="wm_string_05" type="text" id="wm_string_05" value="<?php echo $strings[4]; ?>" class="regular-text"></td>
+                            </tr>
                             <?php /*
                             <tr>
                                 <th scope="row"><label for="blogname">WooCommerce Categorías</label></th>
-                                    <td><input name="wm_string_06" type="text" id="wm_string_06" value="<?php echo $strings[5]; ?>" class="regular-text"></td>
-                                </tr>
+                                <td><input name="wm_string_06" type="text" id="wm_string_06" value="<?php echo $strings[5]; ?>" class="regular-text"></td>
+                            </tr>
                             <tr>
                             */ ?>
                         </tbody>
